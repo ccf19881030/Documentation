@@ -1,6 +1,6 @@
 # Chapter 1
 ## Overview
-The OpenRemote platform consists of three software components: 
+OpenRemote is a state of the art open source software platform for building automation and device control. It has been used for smart building and Internet of Things (IoT) projects around the world, and is supported by a large and active user community. The OpenRemote platform consists of three software components: 
 ##### Open Remote Controller
 The OpenRemote Controller, an always-on (24/7) Linux, Windows or OS X server application, which connects the mobile control devices (smartphones, tablets) to building automation systems and devices under control. Control devices can be building infrastructure (light switches, power outlets etc.), consumer electronic devices, or home appliances. The OpenRemote Controller can also run scripts, which are called rules. These rules are automation sequences, which are implemented based on the open Drools event processing language. 
 ##### OpenRemote Mobile Client
