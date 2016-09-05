@@ -1,1 +1,4 @@
-
+# Chapter 2
+## Installation
+Getting OpenRemote downloaded, installed, and running should take less than one hour. First we need to register for an OpenRemote account. Open [https://designer.openremote.com/login.jsp](http://designer.openremote.com/login.jsp) and select *Don't have an account?*, then *Order Now*. Fill out the fields for email and address. If you are a private or educational user, or if you want to trial the software as a company, on the right hand side of the window, under *Order Summary*, select *Add Coupon* and enter PRIVUNIV. Then select *APPLY* , which reduces your order total to 0 US$, then select *SUBMIT YOUR ORDER*. 
+![Setting up an OpenRemote account](http://figures/figure_2_1.jpg)
