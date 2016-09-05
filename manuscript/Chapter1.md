@@ -1,11 +1,11 @@
 # Chapter 1
 ## Overview
 OpenRemote is a state of the art open source software platform for building automation and device control. It has been used for smart building and Internet of Things (IoT) projects around the world, and is supported by a large and active user community. The OpenRemote platform consists of three software components: 
-##### Open Remote Controller
+#### Open Remote Controller
 The OpenRemote Controller, an always-on (24/7) Linux, Windows or OS X server application, which connects the mobile control devices (smartphones, tablets) to building automation systems and devices under control. Control devices can be building infrastructure (light switches, power outlets etc.), consumer electronic devices, or home appliances. The OpenRemote Controller can also run scripts, which are called rules. These rules are automation sequences, which are implemented based on the open Drools event processing language. 
-##### OpenRemote Mobile Client
+#### OpenRemote Mobile Client
 The second component consists of the OpenRemote mobile clients (OpenRemote Panels) for iOS or Android. Graphical user interface and functionality of these apps can be fully customized using the third component of OpenRemote, the OpenRemote Professional Designer. 
-##### Professional Designer
+#### Professional Designer
 OpenRemote Professional Designer is an online, cloud based application, providing a graphical user interface for crafting the mobile client interface and the related commands, sensors, and switches. Once user interface and control functions are designed, the Professional Designer configuration files are synchronized with the local controller installation. The smartphone client application is updated automatically, when connecting to the controller, immediately reflecting changes or updates made within the online Professional Designer project. 
 ## Supported Control Protocols
 OpenRemote supports a large variety of building automation protocol standards. In addition, it provides API’s for the customization and extension of its capabilities. The current software release OpenRemote Controller 2.6 supports the following control protocols:
