@@ -1,3 +1,4 @@
 #### Table of Content
 
-[Chapter1.md](/Chapter1.md)
+[Chapter 1](Chapter1.md)
+[Chapter 2](Chapter2.md)
