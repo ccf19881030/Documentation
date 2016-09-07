@@ -1,4 +1,4 @@
-#### Table of Content
+# Table of Content
 
 [Chapter 1](Chapter1.md)
 
